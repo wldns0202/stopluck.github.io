@@ -1,2 +1,0 @@
-# blog
-React Gatsby Blog
