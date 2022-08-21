@@ -1,1 +1,4 @@
 gatsby develop  // 시작
+yarn develop
+
+yarn build

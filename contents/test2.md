@@ -1,8 +1,8 @@
 ---
 date: '2022-08-17'
-title: '가방빼미'
-categories: ['Poketmon']
-summary: '나몰빼미의 귀여움을 알아보자'
+title: 'Test'
+categories: ['Test']
+summary: 'Test Summary'
 thumbnail: './test.jpg'
 ---
 
