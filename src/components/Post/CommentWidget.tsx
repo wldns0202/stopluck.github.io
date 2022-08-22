@@ -2,7 +2,7 @@ import React, { createRef, FunctionComponent, useEffect } from 'react'
 import styled from '@emotion/styled'
 
 const src = 'https://utteranc.es/client.js'
-const repo = 'wldns0202/wldns0202.github.io' // 자신 계정의 레포지토리로 설정
+const repo = 'wldns0202/stopluck.github.io' // 자신 계정의 레포지토리로 설정
 
 const UtterancesWrapper = styled.div`
   @media (max-width: 768px) {
