@@ -3,7 +3,7 @@ module.exports = {
     title: `정지운 블로그`,
     description: `기술블로그`,
     author: `STOPLUCK`,
-    siteUrl: 'https://my-website-link.com', // 배포 후 변경 예정
+    siteUrl: 'https://wldns0202.github.io/', // 배포 후 변경 예정
   },
   plugins: [
     {
@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: '<https://my-website.com/>',
+        siteUrl: 'https://wldns0202.github.io/',
         stripQueryString: true,
       },
     },
