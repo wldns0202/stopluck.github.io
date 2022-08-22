@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://stopluck.github.io/sitemap/sitemap-index.xml
+Host: https://stopluck.github.io
