@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://stopluck.github.io/sitemap/sitemap-index.xml
-Host: https://stopluck.github.io
+Sitemap: https://wldns0202.github.io/sitemap/sitemap-index.xml
+Host: https://wldns0202.github.io
