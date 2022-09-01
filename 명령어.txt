@@ -2,3 +2,5 @@ gatsby develop  // 시작
 yarn develop
 
 yarn build
+
+yarn deploy로 배포
